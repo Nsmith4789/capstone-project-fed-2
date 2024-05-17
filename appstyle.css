@@ -10,6 +10,13 @@
 
 }
 
+section {
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+}
+
+
 #input2 {
     width: 700px;
     font-size: large;
@@ -18,4 +25,14 @@
     color: black;
     border-radius: 6px;
     line-height: 1.5;
+}
+
+section img {
+    width: 300px;
+}
+
+img:hover {
+    margin-left: 0 50px;
+    transform: scale(1.2);
+    cursor: pointer;
 }
