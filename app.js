@@ -8,6 +8,11 @@ const url = 'https://api.themoviedb.org/3/search/movie?api_key=903a1b7a6f21dea14
 
 const img_URL = "https://images.tmdb.org/t/p/w500";
 
+
+
+
+
+
 function movieSec(movies) {
     return movies.map((movie) => {
         return `
@@ -49,6 +54,7 @@ buttonElement.onclick = function (event) {
         .catch(() => {
             console.log('Error: ', error)
         });
+    inputElement.value = ""
     console.log('Value: ', value);
 }
 

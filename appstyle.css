@@ -7,7 +7,7 @@
     text-align: center;
     padding: 5px;
     border-radius: 6px;
-
+    margin-bottom: 30px;
 }
 
 section {
@@ -32,7 +32,23 @@ section img {
 }
 
 img:hover {
-    margin-left: 0 50px;
+    margin-left: 0 40;
     transform: scale(1.2);
-    cursor: pointer;
+    cursor: pointer
+}
+
+body {
+    background-image: url(movie2.jpg);
+    height: 100%;
+    width: 100%;
+}
+
+#head1 {
+    color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
