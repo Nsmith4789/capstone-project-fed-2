@@ -1,35 +1,31 @@
 # capstone-project-fed-2
 
 ## About
-This is a page about NBA Legends both from the Eastern Conference and the Western Conference
-it will also highlight their achievements and awards and stats.
+This is a movie app called Movies R Us where a large datebase of movies is at your
+finger tips any movie can be found her search and enjoy  
 
 ## Built with
 HTML
-CSS 
-Bootstrap 
+CSS  
 Javascript
 
 
 ## Roadmap
 
-[x] HTML with Call to action
-[x] Bootstrap cards, list, other utilities
+[x] HTML 
 [x] CSS
-[x] Javascript with for loops and if statements
-
-## wireframe
-![wirframe](wireframe.png)
-
-
-
+[x] Javascript with API calls 
 
 
 ## Acknowledgements
-Robert MCcray
+Thomas Basham
 Louis Perkins
+Desmond Garrison
 
 https://www.w3schools.com/js/
-https://getbootstrap.com/
 https://www.programiz.com/java-programming/for-loop
 https://replit.com/~
+https://developer.mozilla.org/en-US/
+chat GPT
+https://www.freecodecamp.org/news/make-api-calls-in-javascript/
+https://developer.themoviedb.org/reference/collection-images
