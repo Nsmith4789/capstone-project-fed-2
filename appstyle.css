@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+
+
 #search3 {
     color: black;
     background-color: green;
@@ -45,7 +50,11 @@ body {
 
 #head1 {
     color: green;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Balsamiq Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    -webkit-text-fill-color: red;
+
 }
 
 footer {
