@@ -1,23 +1,26 @@
 # capstone-project-fed-2
 
 ## About
+
 This is a movie app called Movies R Us where a large datebase of movies is at your
-finger tips any movie can be found her search and enjoy  
+finger tips any movie can be found her search and enjoy
 
 ## Built with
+
 HTML
 CSS  
 Javascript
 
-
 ## Roadmap
 
-[x] HTML 
+[x] HTML
 [x] CSS
-[x] Javascript with API calls 
+[x] Javascript with API calls
 
+[wireframe] img
 
 ## Acknowledgements
+
 Thomas Basham
 Louis Perkins
 Desmond Garrison
